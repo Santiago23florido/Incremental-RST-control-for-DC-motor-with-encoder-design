@@ -1,0 +1,13 @@
+# Simulink build artifacts
+slprj/
+*.slxc
+
+# MATLAB autosaves
+*.asv
+
+# Temporary files
+*.autosave
+*.backup
+
+# Windows noise
+Thumbs.db
